@@ -1,5 +1,5 @@
 # 2017-02 Raleigh Puppet User Group notes
-## RPUG news
+## RPUG meeting news
 + [March 6 meeting with guest Trevor Vaughan on SIMP and Puppet](https://www.meetup.com/Raleigh-Puppet-User-Group/events/237050632/)
   -  We'll have a guest presenter, Trevor Vaughan of Onyx Point, Inc., and he will be giving an overview of System Integrity Management Platform (SIMP) and then do Q&A around Puppet items in general.
 ## Puppet ecosystem announcements and news bits
@@ -18,6 +18,8 @@
 + [Get 10% off Puppet Training](https://groups.google.com/forum/#!topic/puppet-announce/N64SQa6JInI)
 + [puppetlabs-certregen 0.1.1 available](https://github.com/puppetlabs/puppetlabs-certregen)
   - *"The certregen module provides an easy way to regenerate and distribute expiring CA certificates with zero downtime. When you regenerate your CA certificate with the certregen module your existing CA key pair is reused. The regenerated CA certificate is effectively equivalent to the expiring CA certificate and preserves the validity of your existing certificates, so you can update and distribute your new CA certificate with no downtime."*
++ [PuppetModule.info](http://www.puppetmodule.info/)
+  - *"a new site that publishes documentation for every module on Puppet Forge and GitHub - aka "Puppet Strings as a Service". "*
 
 
 ## Other SysAdmin/DevOps/Tech news
