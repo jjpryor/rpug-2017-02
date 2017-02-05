@@ -2,15 +2,15 @@
 ## RPUG meeting news
 + [March 6 meeting with guest Trevor Vaughan on SIMP and Puppet](https://www.meetup.com/Raleigh-Puppet-User-Group/events/237050632/)
   -  We'll have a guest presenter, Trevor Vaughan of Onyx Point, Inc., and he will be giving an overview of System Integrity Management Platform (SIMP) and then do Q&A around Puppet items in general.
+
 ## Puppet ecosystem announcements and news bits
 + [Puppet 3 went EOL Jan 1, 2017](https://groups.google.com/forum/#!topic/puppet-announce/tSe_4KTS7t0)
-+ [Puppet Enterprise Support Lifecycle](https://puppet.com/misc/puppet-enterprise-lifecycle):
+[Puppet Enterprise Support Lifecycle](https://puppet.com/misc/puppet-enterprise-lifecycle):
   - Purely my opinion, but I think the PE support lifecycle is a bit aggressive: PE 2016.2 which came out June 21, 2016 and goes EOL on April 30, 2017.
 + [Puppet Enterprise 2016.5 introduces high availability](https://groups.google.com/d/msg/puppet-announce/JpqXSO1p1Zw/htB9NJxLBQAJ)
 + [puppet-agent 1.9.0 released which includes Puppet 4.9.0.](https://groups.google.com/d/msg/puppet-announce/A0PrJJNylz4/XgL6mH7rDAAJ)
- - *"Hiera 5 - a successor of the experimental Puppet lookup feature - is built into Puppet 4.9. This allows you to have Hiera data embedded in modules as well as per-environment hierarchies, provides an "explain" feature for easy debugging, and has significant performance improvements."*
- - *"Fixes for several bugs related to Unicode and UTF-8 support in Puppet."*"
- - *"New fact: `cloud`. This new top-level fact is intended for discovering whether a node is running on a given public cloud provider. In this first release, it currently detects whether a Linux-based node is running in Azure, and provides that information in the cloud.provider fact. "*
+ - *Hiera 5 - a successor of the experimental Puppet lookup feature - is built into Puppet 4.9. Fixes for several bugs related to Unicode and UTF-8 support in Puppet." New top level fact: `cloud`."*
+ - [However there are problems with Puppet 4.9.0; 4.9.2 to be released soon](https://groups.google.com/d/msg/puppet-users/H9xRUjkl2ZI/WdJ_NpwfDgAJ)
 + [Foreman 1.14.x line has been released.](https://theforeman.org/manuals/1.14/index.html#Releasenotesfor1.14)
 + Vox Pupuli blog posts
   - [12/22/2016 - Announced the deprecation of Puppet 3 in Vox Pupuli modules](https://voxpupuli.org/blog/2016/12/22/putting-down-puppet-3/)
