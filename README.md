@@ -4,9 +4,8 @@
   -  We'll have a guest presenter, Trevor Vaughan of Onyx Point, Inc., and he will be giving an overview of System Integrity Management Platform (SIMP) and then do Q&A around Puppet items in general.
 
 ## Puppet ecosystem announcements and news bits
-+ [Puppet 3 went EOL Jan 1, 2017](https://groups.google.com/forum/#!topic/puppet-announce/tSe_4KTS7t0)
-[Puppet Enterprise Support Lifecycle](https://puppet.com/misc/puppet-enterprise-lifecycle):
-  - Purely my opinion, but I think the PE support lifecycle is a bit aggressive: PE 2016.2 which came out June 21, 2016 and goes EOL on April 30, 2017.
++ [Puppet 3 went EOL Jan 1, 2017](https://groups.google.com/forum/#!topic/puppet-announce/tSe_4KTS7t0) see also the [Puppet Enterprise Support Lifecycle](https://puppet.com/misc/puppet-enterprise-lifecycle):
+  - Purely my opinion, but I think the PE support lifecycle is a bit aggressive: all PE releases up to PE 2016.4  will go EOL on April 30, 2017. At least PE 2016.4 is a Long Term Support version.
 + [Puppet Enterprise 2016.5 introduces high availability](https://groups.google.com/d/msg/puppet-announce/JpqXSO1p1Zw/htB9NJxLBQAJ)
 + [puppet-agent 1.9.0 released which includes Puppet 4.9.0.](https://groups.google.com/d/msg/puppet-announce/A0PrJJNylz4/XgL6mH7rDAAJ)
   - *Hiera 5 - a successor of the experimental Puppet lookup feature - is built into Puppet 4.9. Fixes for several bugs related to Unicode and UTF-8 support in Puppet." New top level fact: `cloud`."*
