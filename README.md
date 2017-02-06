@@ -9,9 +9,10 @@
   - Purely my opinion, but I think the PE support lifecycle is a bit aggressive: PE 2016.2 which came out June 21, 2016 and goes EOL on April 30, 2017.
 + [Puppet Enterprise 2016.5 introduces high availability](https://groups.google.com/d/msg/puppet-announce/JpqXSO1p1Zw/htB9NJxLBQAJ)
 + [puppet-agent 1.9.0 released which includes Puppet 4.9.0.](https://groups.google.com/d/msg/puppet-announce/A0PrJJNylz4/XgL6mH7rDAAJ)
- - *Hiera 5 - a successor of the experimental Puppet lookup feature - is built into Puppet 4.9. Fixes for several bugs related to Unicode and UTF-8 support in Puppet." New top level fact: `cloud`."*
- - [However there are problems with Puppet 4.9.0; 4.9.2 to be released soon](https://groups.google.com/d/msg/puppet-users/H9xRUjkl2ZI/WdJ_NpwfDgAJ)
+  - *Hiera 5 - a successor of the experimental Puppet lookup feature - is built into Puppet 4.9. Fixes for several bugs related to Unicode and UTF-8 support in Puppet." New top level fact: `cloud`."*
+  - [However there are problems with Puppet 4.9.0; 4.9.2 to be released soon](https://groups.google.com/d/msg/puppet-users/H9xRUjkl2ZI/WdJ_NpwfDgAJ)
 + [Foreman 1.14.x line has been released.](https://theforeman.org/manuals/1.14/index.html#Releasenotesfor1.14)
++ [5 unknown Gems Foreman gems - Ohad Levy - Cfgmgmtcamp 2017](http://redhat.slides.com/olevy/foreman-hidden-gems-cfgmgmtcamp2017?token=EpFZb7yH#/)
 + Vox Pupuli blog posts
   - [12/22/2016 - Announced the deprecation of Puppet 3 in Vox Pupuli modules](https://voxpupuli.org/blog/2016/12/22/putting-down-puppet-3/)
   - [01/11/2017 - List few steps to be done before a Puppet-4-only release of a Vox Pupuli Module](https://voxpupuli.org/blog/2017/01/11/migrating-to-puppet4/)
