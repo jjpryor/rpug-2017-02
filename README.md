@@ -15,6 +15,8 @@
 + Vox Pupuli blog posts
   - [12/22/2016 - Announced the deprecation of Puppet 3 in Vox Pupuli modules](https://voxpupuli.org/blog/2016/12/22/putting-down-puppet-3/)
   - [01/11/2017 - List few steps to be done before a Puppet-4-only release of a Vox Pupuli Module](https://voxpupuli.org/blog/2017/01/11/migrating-to-puppet4/)
++ [Puppet.com blog - Now updated for Puppet 4: the Puppet Language Style Guide - published on January 26, 2017](https://puppet.com/blog/now-updated-puppet-4-puppet-language-style-guide)
+  - *"We are very excited to announce the release of the Puppet 4 style guide! This update to the Puppet Language Style Guide was a long-term cooperative effort between Puppet developers, writers, and of course, the Puppet community. Our deepest thanks go to the community for their invaluable contributions to this revision."*
 + [Get 10% off Puppet Training](https://groups.google.com/forum/#!topic/puppet-announce/N64SQa6JInI)
 + [puppetlabs-certregen 0.1.1 available](https://github.com/puppetlabs/puppetlabs-certregen)
   - *"The certregen module provides an easy way to regenerate and distribute expiring CA certificates with zero downtime. When you regenerate your CA certificate with the certregen module your existing CA key pair is reused. The regenerated CA certificate is effectively equivalent to the expiring CA certificate and preserves the validity of your existing certificates, so you can update and distribute your new CA certificate with no downtime."*
